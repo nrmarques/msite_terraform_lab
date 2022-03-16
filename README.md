@@ -1,5 +1,7 @@
 # NDO Terraform Lab
 
+![image](tf.jpg)
+
 ACI multi-site network with shared networking capabilities. 
 
 Consists of four modules:
