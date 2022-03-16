@@ -1,4 +1,4 @@
-# NDO Lab
+# NDO Terraform Lab
 
 ACI multi-site network with shared networking capabilities. 
 
