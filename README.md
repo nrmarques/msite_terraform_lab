@@ -1,6 +1,6 @@
 # NDO Terraform Lab
 
-![image](tf.jpg)
+![image](tf.png)
 
 ACI multi-site network with shared networking capabilities. 
 
